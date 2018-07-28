@@ -35,8 +35,9 @@
     "markdown-it-mark": "^2.0.0",
     "markdown-it-sub": "^1.0.0",
     "markdown-it-sup": "^1.0.0",
-    "markdown-it-katex": "^2.0.3",
+    "@iktakahiro/markdown-it-katex": "^3.0.3",
     "markdown-it-checkbox": "^1.1.0",
+    "markdown-it-toc-and-anchor": "^4.1.2",
     "sluggo": "^0.2.0"
   },
   "devDependencies": {
