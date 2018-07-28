@@ -1,13 +1,10 @@
 
 Forked for personal use. Only `lib/renderer.js` and `package.json` are changed.
 ```
-  parser.use(require('@iktakahiro/markdown-it-katex'));
   parser.use(require('markdown-it-checkbox'));
   parser.use(require('markdown-it-footnote'));
   parser.use(require('markdown-it-emoji'));
-  parser.use(require('markdown-it-toc-and-anchor'));
 ```
-> [katex](https://github.com/iktakahiro/markdown-it-katex) css should be added.
 
 # hexo-renderer-markdown-it
 
