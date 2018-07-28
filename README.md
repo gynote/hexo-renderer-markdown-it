@@ -1,3 +1,13 @@
+
+Forked for personal use. Only `lib/renderer.js` and `package.json` are changed.
+```
+  parser.use(require('@iktakahiro/markdown-it-katex'));
+  parser.use(require('markdown-it-checkbox'));
+  parser.use(require('markdown-it-footnote'));
+  parser.use(require('markdown-it-emoji'));
+  parser.use(require('markdown-it-toc-and-anchor'));
+```
+
 # hexo-renderer-markdown-it
 
 [![Build Status](https://travis-ci.org/hexojs/hexo-renderer-markdown-it.svg?branch=master)](https://travis-ci.org/hexojs/hexo-renderer-markdown-it)
